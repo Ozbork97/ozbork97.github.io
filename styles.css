@@ -7,13 +7,24 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
+  text-align: center;
 }
 
 .carta {
-  max-width: 800px;
-  padding: 30px;
-  text-align: justify;
-  font-size: 1.4em;
+  max-width: 90%;
+  padding: 20px;
+  font-size: 1.1em;
   line-height: 1.6;
+  text-align: justify;
+  word-wrap: break-word;
 }
+
+@media (min-width: 600px) {
+  .carta {
+    max-width: 600px;
+    font-size: 1.4em;
+    padding: 30px;
+  }
+}
+
