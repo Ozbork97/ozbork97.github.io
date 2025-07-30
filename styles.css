@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: 'Georgia', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.carta {
+  max-width: 800px;
+  padding: 30px;
+  text-align: justify;
+  font-size: 1.4em;
+  line-height: 1.6;
+}
