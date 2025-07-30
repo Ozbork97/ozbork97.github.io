@@ -1,4 +1,6 @@
 const mensaje = `
+
+
 Mi querida Dayi,
 
 He estado pensando en ti todos estos días, y la verdad es que me has hecho falta… igual o incluso más que antes. Te pienso aunque a veces intente no hacerlo. Y aunque estemos en esta sitiacón, no hay un solo segundo en el que no imagine cómo recuperarte, cómo volver a encender esa llama de AMOR.
